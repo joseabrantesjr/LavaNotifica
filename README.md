@@ -57,7 +57,7 @@ Siga os passos abaixo para clonar e executar o projeto **LavaNotifica** em sua m
 
 ---
 
-### Passo a passo:
+## Opção 1:
 
 ### 1. Clonar o repositório
 
@@ -74,12 +74,37 @@ cd LavaNotifica
 ```
 *Caso já esteja na pasta, ignore este passo.
 
+
 ### 3. Execute o arquivo:
 
 ```bash
 python3 LavaNotifica.py
 ```
+---
 
+## Opção 2: 
+
+### 1. Baixando a programação como arquivo .zip
+
+- <a href="https://github.com/joseabrantesjr/LavaNotifica/archive/refs/heads/main.zip" target="_blank">
+  Clique aqui para baixar o arquivo (.zip)
+</a>
+
+### 2. Extraia o conteúdo do .zip.
+
+### 3. Abra a pasta extraída no terminal.
+
+
+### 4. Execute a aplicação:
+
+```bash
+python3 LavaNotifica.py
+```
+⚠️ Em sistemas Linux, se aparecer erro ao iniciar a interface, instale o Tkinter:
+
+```bash
+sudo apt install python3-tk
+```
 ## Estrutura do Código
 
 **Componente	Descrição**
