@@ -1,4 +1,4 @@
-# LavaNotifica - Simulação Visual (Versão Tkinter)
+# LavaNotifica - Simulação Visual 
 
 Clique na imagem abaixo para assistir ao vídeo no YouTube:
 
