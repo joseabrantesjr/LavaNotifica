@@ -75,10 +75,14 @@ update_loop()	Lógica contínua que atualiza os estados da máquina e exibe noti
 
 4. A notificação fica visível por 5 segundos antes de desaparecer.
 
-## Documentação Técnica Relacionada
+## Documentações
 Para entender melhor o projeto original, consulte:
 
 [📥 Projeto LavaNotifica](./Projeto_LavaNotifica.pdf)
+
+Clique para acessar o código-fonte principal do projeto:
+
+👉 [Código no GitHub](https://github.com/joseabrantesjr/LavaNotifica/blob/main/run.py)
 
 
 ## Possibilidades Futuras
