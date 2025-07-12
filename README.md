@@ -130,7 +130,7 @@ update_loop()	Lógica contínua que atualiza os estados da máquina e exibe noti
   Clique para abrir o relatório técnico (PDF)
 </a>
 <br><br>
-<a href="https://github.com/joseabrantesjr/LavaNotifica/blob/main/run.py" target="_blank">
+<a href="https://github.com/joseabrantesjr/LavaNotifica/blob/main/LavaNotifica.py" target="_blank">
   Clique para abrir o código-fonte da simulação no GitHub
 </a>
 
