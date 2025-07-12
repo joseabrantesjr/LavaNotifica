@@ -1,6 +1,6 @@
 # LavaNotifica - Simulação Visual (Versão Tkinter)
 
-[![Vídeo Demonstração LavaNotifica](https://img.youtube.com/watch?v=95hWp7qxDCk&ab_channel=Jos%C3%A9CalazansAbrantesJ%C3%BAnior/hqdefault.jpg)](https://www.youtube.com/watch?v=95hWp7qxDCk&ab_channel=Jos%C3%A9CalazansAbrantesJ%C3%BAnior)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/95hWp7qxDCk/hqdefault.jpg)](https://youtu.be/95hWp7qxDCk)
 
 
  **Simulação gráfica do sistema LavaNotifica**, um projeto de automação embarcada desenvolvido para notificar usuários, via Telegram, sobre o fim do ciclo de lavagem de máquinas coletivas. Esta versão reproduz visualmente o funcionamento do sistema utilizando Python e Tkinter, ideal para fins didáticos, apresentações e validações de lógica.
