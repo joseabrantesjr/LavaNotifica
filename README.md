@@ -8,7 +8,7 @@ Clique na imagem abaixo para assistir ao vídeo no YouTube:
 
 ---
 
- **Simulação gráfica do sistema LavaNotifica**, um projeto de automação embarcada desenvolvido para notificar usuários, via Telegram, sobre o fim do ciclo de lavagem de máquinas coletivas. Esta versão reproduz visualmente o funcionamento do sistema utilizando Python e Tkinter, para fim didático de apresentação e validação de lógica.
+ **Simulação gráfica do sistema LavaNotifica**, um projeto de automação embarcada desenvolvido para notificar usuários, via Telegram, sobre o fim do ciclo de lavagem de máquinas coletivas. Esta versão reproduz visualmente o funcionamento do sistema utilizando Python, para fim didático de apresentação e validação de lógica.
 
 ---
 
