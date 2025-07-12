@@ -43,17 +43,37 @@ A interface gráfica inclui:
 
 ## Como Executar
 
-### Requisitos
+Siga os passos abaixo para clonar e executar o projeto **LavaNotifica** em sua máquina local:
 
-- Python 3.6+
-- Biblioteca Tkinter (já incluída na maioria das distribuições Python)
+### Pré-requisitos
 
-### Execução
+- [Python 3.7 ou superior](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/)
 
-Clone o repositório e execute o arquivo:
+
+---
+
+### Passo a passo:
+
+### 1. Clonar o repositório
+
+Abra o terminal (ou prompt de comando) e digite:
 
 ```bash
-python3 run.py
+git clone https://github.com/joseabrantesjr/LavaNotifica.git
+```
+
+### 2. Em seguida, entre na pasta do projeto*:
+
+```bash
+cd LavaNotifica
+```
+*Caso já esteja na pasta, ignore este passo.
+
+### 3. Execute o arquivo:
+
+```bash
+python3 LavaNotifica.py
 ```
 
 ## Estrutura do Código
@@ -82,7 +102,7 @@ update_loop()	Lógica contínua que atualiza os estados da máquina e exibe noti
 </a>
 <br><br>
 <a href="https://github.com/joseabrantesjr/LavaNotifica/blob/main/run.py" target="_blank">
-  Clique para abrir o código-fonte da simulação (run.py) no GitHub
+  Clique para abrir o código-fonte da simulação no GitHub
 </a>
 
 ## Possibilidades Futuras
