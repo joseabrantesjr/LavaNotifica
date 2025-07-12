@@ -47,9 +47,13 @@ Siga os passos abaixo para clonar e executar o projeto **LavaNotifica** em sua m
 
 ### Pré-requisitos
 
-- [Python 3.7 ou superior](https://www.python.org/downloads/)
-- [Git](https://git-scm.com/)
+- <a href="https://www.python.org/downloads/" target="_blank">
+  Python
+</a>
 
+- <a href="https://git-scm.com/" target="_blank">
+  Git
+</a>
 
 ---
 
