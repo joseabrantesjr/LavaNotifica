@@ -8,8 +8,9 @@ Clique na imagem abaixo para assistir ao vídeo no YouTube:
 
 ---
 
- **Simulação gráfica do sistema LavaNotifica**, um projeto de automação embarcada desenvolvido para notificar usuários, via Telegram, sobre o fim do ciclo de lavagem de máquinas coletivas. Esta versão reproduz visualmente o funcionamento do sistema utilizando Python, para fim didático de apresentação e validação de lógica.
+ **Simulação gráfica do sistema LavaNotifica**, desenvolvida em Python, com fins didáticos e de validação de lógica. A simulação reproduz visualmente o funcionamento do sistema, demonstrando como o sensor de vibração detecta a atividade da lavadora, como os dados são interpretados pelo microcontrolador (ESP8266), e como ocorre o envio automatizado de notificações via bot do Telegram.
 
+* Este projeto foi desenvolvido no contexto da disciplina Projeto de Física Experimental I – GFI130, ofertada pela Universidade Federal de Lavras (UFLA).
 ---
 
 ## Sobre o Projeto Original
